@@ -8,13 +8,42 @@
 
 /* Begin PBXBuildFile section */
 		B14D764220B563E80063F0B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14D764120B563E80063F0B9 /* AppDelegate.swift */; };
-		B14D764420B563E80063F0B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14D764320B563E80063F0B9 /* ViewController.swift */; };
 		B14D764720B563E80063F0B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B14D764520B563E80063F0B9 /* Main.storyboard */; };
 		B14D764A20B563E80063F0B9 /* Library.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B14D764820B563E80063F0B9 /* Library.xcdatamodeld */; };
 		B14D764C20B563EB0063F0B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B14D764B20B563EB0063F0B9 /* Assets.xcassets */; };
 		B14D764F20B563EB0063F0B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B14D764D20B563EB0063F0B9 /* LaunchScreen.storyboard */; };
 		B14D765A20B563EB0063F0B9 /* LibraryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14D765920B563EB0063F0B9 /* LibraryTests.swift */; };
 		B14D766520B563EB0063F0B9 /* LibraryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14D766420B563EB0063F0B9 /* LibraryUITests.swift */; };
+		B14D769020B564AC0063F0B9 /* da-vinci-code.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767420B564AB0063F0B9 /* da-vinci-code.jpg */; };
+		B14D769120B564AC0063F0B9 /* chamber.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767520B564AB0063F0B9 /* chamber.jpg */; };
+		B14D769220B564AC0063F0B9 /* digital-fortress.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767620B564AB0063F0B9 /* digital-fortress.jpg */; };
+		B14D769320B564AC0063F0B9 /* bilbo-song.png in Resources */ = {isa = PBXBuildFile; fileRef = B14D767720B564AB0063F0B9 /* bilbo-song.png */; };
+		B14D769420B564AC0063F0B9 /* fever.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767820B564AB0063F0B9 /* fever.jpg */; };
+		B14D769520B564AC0063F0B9 /* hallows.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767920B564AB0063F0B9 /* hallows.jpg */; };
+		B14D769620B564AC0063F0B9 /* invasion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767A20B564AB0063F0B9 /* invasion.jpg */; };
+		B14D769720B564AC0063F0B9 /* shock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767B20B564AB0063F0B9 /* shock.jpg */; };
+		B14D769820B564AC0063F0B9 /* fatal-cure.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767C20B564AB0063F0B9 /* fatal-cure.jpeg */; };
+		B14D769920B564AC0063F0B9 /* brain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767D20B564AB0063F0B9 /* brain.jpg */; };
+		B14D769A20B564AC0063F0B9 /* prince.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767E20B564AB0063F0B9 /* prince.jpg */; };
+		B14D769B20B564AC0063F0B9 /* the-hobbit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D767F20B564AB0063F0B9 /* the-hobbit.jpg */; };
+		B14D769C20B564AC0063F0B9 /* blindsight.png in Resources */ = {isa = PBXBuildFile; fileRef = B14D768020B564AB0063F0B9 /* blindsight.png */; };
+		B14D769D20B564AC0063F0B9 /* goblet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768120B564AB0063F0B9 /* goblet.jpg */; };
+		B14D769E20B564AC0063F0B9 /* fellowship.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768220B564AB0063F0B9 /* fellowship.jpg */; };
+		B14D769F20B564AC0063F0B9 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768320B564AB0063F0B9 /* background.jpg */; };
+		B14D76A020B564AC0063F0B9 /* stone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768420B564AB0063F0B9 /* stone.jpg */; };
+		B14D76A120B564AC0063F0B9 /* bard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768520B564AB0063F0B9 /* bard.jpg */; };
+		B14D76A220B564AC0063F0B9 /* two-towers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768620B564AB0063F0B9 /* two-towers.jpg */; };
+		B14D76A320B564AC0063F0B9 /* lost-symbol.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768720B564AB0063F0B9 /* lost-symbol.jpg */; };
+		B14D76A420B564AC0063F0B9 /* azkaban.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768820B564AB0063F0B9 /* azkaban.jpg */; };
+		B14D76A520B564AC0063F0B9 /* deception-point.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768920B564AB0063F0B9 /* deception-point.jpg */; };
+		B14D76A620B564AC0063F0B9 /* return-king.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768A20B564AB0063F0B9 /* return-king.jpg */; };
+		B14D76A720B564AC0063F0B9 /* sphinx.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768B20B564AB0063F0B9 /* sphinx.jpeg */; };
+		B14D76A820B564AC0063F0B9 /* intervention.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768C20B564AB0063F0B9 /* intervention.jpg */; };
+		B14D76A920B564AC0063F0B9 /* phoenix.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768D20B564AB0063F0B9 /* phoenix.jpg */; };
+		B14D76AA20B564AC0063F0B9 /* angels-demons.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B14D768E20B564AB0063F0B9 /* angels-demons.jpg */; };
+		B14D76AB20B564AC0063F0B9 /* Books.plist in Resources */ = {isa = PBXBuildFile; fileRef = B14D768F20B564AB0063F0B9 /* Books.plist */; };
+		B14D76AD20B565EC0063F0B9 /* AuthersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14D76AC20B565EC0063F0B9 /* AuthersViewController.swift */; };
+		B14D76AE20B565EC0063F0B9 /* AuthersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14D76AC20B565EC0063F0B9 /* AuthersViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +66,6 @@
 /* Begin PBXFileReference section */
 		B14D763E20B563E80063F0B9 /* Library.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Library.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B14D764120B563E80063F0B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B14D764320B563E80063F0B9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B14D764620B563E80063F0B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B14D764920B563E80063F0B9 /* Library.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Library.xcdatamodel; sourceTree = "<group>"; };
 		B14D764B20B563EB0063F0B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -49,6 +77,35 @@
 		B14D766020B563EB0063F0B9 /* LibraryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LibraryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B14D766420B563EB0063F0B9 /* LibraryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryUITests.swift; sourceTree = "<group>"; };
 		B14D766620B563EB0063F0B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B14D767420B564AB0063F0B9 /* da-vinci-code.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "da-vinci-code.jpg"; sourceTree = "<group>"; };
+		B14D767520B564AB0063F0B9 /* chamber.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chamber.jpg; sourceTree = "<group>"; };
+		B14D767620B564AB0063F0B9 /* digital-fortress.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "digital-fortress.jpg"; sourceTree = "<group>"; };
+		B14D767720B564AB0063F0B9 /* bilbo-song.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bilbo-song.png"; sourceTree = "<group>"; };
+		B14D767820B564AB0063F0B9 /* fever.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fever.jpg; sourceTree = "<group>"; };
+		B14D767920B564AB0063F0B9 /* hallows.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hallows.jpg; sourceTree = "<group>"; };
+		B14D767A20B564AB0063F0B9 /* invasion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = invasion.jpg; sourceTree = "<group>"; };
+		B14D767B20B564AB0063F0B9 /* shock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shock.jpg; sourceTree = "<group>"; };
+		B14D767C20B564AB0063F0B9 /* fatal-cure.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fatal-cure.jpeg"; sourceTree = "<group>"; };
+		B14D767D20B564AB0063F0B9 /* brain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brain.jpg; sourceTree = "<group>"; };
+		B14D767E20B564AB0063F0B9 /* prince.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = prince.jpg; sourceTree = "<group>"; };
+		B14D767F20B564AB0063F0B9 /* the-hobbit.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "the-hobbit.jpg"; sourceTree = "<group>"; };
+		B14D768020B564AB0063F0B9 /* blindsight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blindsight.png; sourceTree = "<group>"; };
+		B14D768120B564AB0063F0B9 /* goblet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = goblet.jpg; sourceTree = "<group>"; };
+		B14D768220B564AB0063F0B9 /* fellowship.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fellowship.jpg; sourceTree = "<group>"; };
+		B14D768320B564AB0063F0B9 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		B14D768420B564AB0063F0B9 /* stone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stone.jpg; sourceTree = "<group>"; };
+		B14D768520B564AB0063F0B9 /* bard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bard.jpg; sourceTree = "<group>"; };
+		B14D768620B564AB0063F0B9 /* two-towers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "two-towers.jpg"; sourceTree = "<group>"; };
+		B14D768720B564AB0063F0B9 /* lost-symbol.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "lost-symbol.jpg"; sourceTree = "<group>"; };
+		B14D768820B564AB0063F0B9 /* azkaban.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = azkaban.jpg; sourceTree = "<group>"; };
+		B14D768920B564AB0063F0B9 /* deception-point.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "deception-point.jpg"; sourceTree = "<group>"; };
+		B14D768A20B564AB0063F0B9 /* return-king.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "return-king.jpg"; sourceTree = "<group>"; };
+		B14D768B20B564AB0063F0B9 /* sphinx.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sphinx.jpeg; sourceTree = "<group>"; };
+		B14D768C20B564AB0063F0B9 /* intervention.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = intervention.jpg; sourceTree = "<group>"; };
+		B14D768D20B564AB0063F0B9 /* phoenix.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = phoenix.jpg; sourceTree = "<group>"; };
+		B14D768E20B564AB0063F0B9 /* angels-demons.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "angels-demons.jpg"; sourceTree = "<group>"; };
+		B14D768F20B564AB0063F0B9 /* Books.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Books.plist; sourceTree = "<group>"; };
+		B14D76AC20B565EC0063F0B9 /* AuthersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthersViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,12 +157,13 @@
 			isa = PBXGroup;
 			children = (
 				B14D764120B563E80063F0B9 /* AppDelegate.swift */,
-				B14D764320B563E80063F0B9 /* ViewController.swift */,
-				B14D764520B563E80063F0B9 /* Main.storyboard */,
 				B14D764B20B563EB0063F0B9 /* Assets.xcassets */,
-				B14D764D20B563EB0063F0B9 /* LaunchScreen.storyboard */,
 				B14D765020B563EB0063F0B9 /* Info.plist */,
+				B14D764D20B563EB0063F0B9 /* LaunchScreen.storyboard */,
 				B14D764820B563E80063F0B9 /* Library.xcdatamodeld */,
+				B14D764520B563E80063F0B9 /* Main.storyboard */,
+				B14D767220B564AB0063F0B9 /* Resources */,
+				B14D76AC20B565EC0063F0B9 /* AuthersViewController.swift */,
 			);
 			path = Library;
 			sourceTree = "<group>";
@@ -126,6 +184,49 @@
 				B14D766620B563EB0063F0B9 /* Info.plist */,
 			);
 			path = LibraryUITests;
+			sourceTree = "<group>";
+		};
+		B14D767220B564AB0063F0B9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B14D767320B564AB0063F0B9 /* Images */,
+				B14D768F20B564AB0063F0B9 /* Books.plist */,
+			);
+			path = Resources;
+			sourceTree = SOURCE_ROOT;
+		};
+		B14D767320B564AB0063F0B9 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				B14D767420B564AB0063F0B9 /* da-vinci-code.jpg */,
+				B14D767520B564AB0063F0B9 /* chamber.jpg */,
+				B14D767620B564AB0063F0B9 /* digital-fortress.jpg */,
+				B14D767720B564AB0063F0B9 /* bilbo-song.png */,
+				B14D767820B564AB0063F0B9 /* fever.jpg */,
+				B14D767920B564AB0063F0B9 /* hallows.jpg */,
+				B14D767A20B564AB0063F0B9 /* invasion.jpg */,
+				B14D767B20B564AB0063F0B9 /* shock.jpg */,
+				B14D767C20B564AB0063F0B9 /* fatal-cure.jpeg */,
+				B14D767D20B564AB0063F0B9 /* brain.jpg */,
+				B14D767E20B564AB0063F0B9 /* prince.jpg */,
+				B14D767F20B564AB0063F0B9 /* the-hobbit.jpg */,
+				B14D768020B564AB0063F0B9 /* blindsight.png */,
+				B14D768120B564AB0063F0B9 /* goblet.jpg */,
+				B14D768220B564AB0063F0B9 /* fellowship.jpg */,
+				B14D768320B564AB0063F0B9 /* background.jpg */,
+				B14D768420B564AB0063F0B9 /* stone.jpg */,
+				B14D768520B564AB0063F0B9 /* bard.jpg */,
+				B14D768620B564AB0063F0B9 /* two-towers.jpg */,
+				B14D768720B564AB0063F0B9 /* lost-symbol.jpg */,
+				B14D768820B564AB0063F0B9 /* azkaban.jpg */,
+				B14D768920B564AB0063F0B9 /* deception-point.jpg */,
+				B14D768A20B564AB0063F0B9 /* return-king.jpg */,
+				B14D768B20B564AB0063F0B9 /* sphinx.jpeg */,
+				B14D768C20B564AB0063F0B9 /* intervention.jpg */,
+				B14D768D20B564AB0063F0B9 /* phoenix.jpg */,
+				B14D768E20B564AB0063F0B9 /* angels-demons.jpg */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +333,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B14D769420B564AC0063F0B9 /* fever.jpg in Resources */,
+				B14D769220B564AC0063F0B9 /* digital-fortress.jpg in Resources */,
+				B14D76A620B564AC0063F0B9 /* return-king.jpg in Resources */,
+				B14D76A420B564AC0063F0B9 /* azkaban.jpg in Resources */,
+				B14D769A20B564AC0063F0B9 /* prince.jpg in Resources */,
 				B14D764F20B563EB0063F0B9 /* LaunchScreen.storyboard in Resources */,
+				B14D769B20B564AC0063F0B9 /* the-hobbit.jpg in Resources */,
+				B14D76AB20B564AC0063F0B9 /* Books.plist in Resources */,
+				B14D76A720B564AC0063F0B9 /* sphinx.jpeg in Resources */,
+				B14D769520B564AC0063F0B9 /* hallows.jpg in Resources */,
+				B14D76A220B564AC0063F0B9 /* two-towers.jpg in Resources */,
+				B14D76A320B564AC0063F0B9 /* lost-symbol.jpg in Resources */,
+				B14D76A920B564AC0063F0B9 /* phoenix.jpg in Resources */,
+				B14D769620B564AC0063F0B9 /* invasion.jpg in Resources */,
+				B14D76A820B564AC0063F0B9 /* intervention.jpg in Resources */,
+				B14D769720B564AC0063F0B9 /* shock.jpg in Resources */,
+				B14D769120B564AC0063F0B9 /* chamber.jpg in Resources */,
+				B14D769D20B564AC0063F0B9 /* goblet.jpg in Resources */,
+				B14D76AA20B564AC0063F0B9 /* angels-demons.jpg in Resources */,
+				B14D76A120B564AC0063F0B9 /* bard.jpg in Resources */,
+				B14D769C20B564AC0063F0B9 /* blindsight.png in Resources */,
 				B14D764C20B563EB0063F0B9 /* Assets.xcassets in Resources */,
+				B14D769E20B564AC0063F0B9 /* fellowship.jpg in Resources */,
 				B14D764720B563E80063F0B9 /* Main.storyboard in Resources */,
+				B14D769020B564AC0063F0B9 /* da-vinci-code.jpg in Resources */,
+				B14D76A520B564AC0063F0B9 /* deception-point.jpg in Resources */,
+				B14D769320B564AC0063F0B9 /* bilbo-song.png in Resources */,
+				B14D769820B564AC0063F0B9 /* fatal-cure.jpeg in Resources */,
+				B14D76A020B564AC0063F0B9 /* stone.jpg in Resources */,
+				B14D769F20B564AC0063F0B9 /* background.jpg in Resources */,
+				B14D769920B564AC0063F0B9 /* brain.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,7 +388,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B14D764420B563E80063F0B9 /* ViewController.swift in Sources */,
+				B14D76AD20B565EC0063F0B9 /* AuthersViewController.swift in Sources */,
 				B14D764220B563E80063F0B9 /* AppDelegate.swift in Sources */,
 				B14D764A20B563E80063F0B9 /* Library.xcdatamodeld in Sources */,
 			);
@@ -270,6 +399,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B14D765A20B563EB0063F0B9 /* LibraryTests.swift in Sources */,
+				B14D76AE20B565EC0063F0B9 /* AuthersViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
